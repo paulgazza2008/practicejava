@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0eecaba7-23cc-4217-b4ad-9c7cae102100" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/gitgnore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1adeTnw7PW9KeYSq3RJv1fN2LSr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Animal$Animaltestdrive">
+    <configuration name="Animal$Animaltestdrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Animal$Animaltestdrive" />
+      <module name="practice 01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Animal" />
+      <module name="practice 01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Animaltestdrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Animaltestdrive" />
+      <module name="practice 01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="practice 01" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <module name="practice 01" />
+      <option name="WORKING_DIRECTORY" value="practice 01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Animal" />
+      <item itemvalue="Application.Animaltestdrive" />
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Animal$Animaltestdrive" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Animal$Animaltestdrive" />
+        <item itemvalue="Application.Animal" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Animaltestdrive" />
+        <item itemvalue="Application.Unnamed" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0eecaba7-23cc-4217-b4ad-9c7cae102100" name="Default Changelist" comment="" />
+      <created>1587069907408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587069907408</updated>
+      <workItem from="1587069918650" duration="1708000" />
+      <workItem from="1587115486045" duration="292000" />
+      <workItem from="1587116481455" duration="2439000" />
+    </task>
+    <task id="LOCAL-00001" summary="Class Animal java lesson 3">
+      <created>1587118003906</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587118003906</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="Class Animal java lesson 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class Animal java lesson 3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="267" y="23" key="#Inspections" timestamp="1587071698359">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="267" y="23" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1587071698359" />
+    <state x="267" y="0" width="816" height="728" key="#Intentions" timestamp="1587070527266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="267" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1587070527266" />
+    <state x="267" y="23" key="#Project_Structure" timestamp="1587118230046">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="267" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1587118230046" />
+    <state x="392" y="23" key="#Unnamed" timestamp="1587070727394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="23" key="#Unnamed/0.0.1366.728@0.0.1366.728" timestamp="1587070727394" />
+    <state x="129" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587071190548">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587071190548" />
+    <state x="437" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587118328952">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1587118328952" />
+    <state x="300" y="0" key="CommitChangelistDialog2" timestamp="1587118000579">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="300" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587118000579" />
+    <state x="100" y="100" width="1150" height="528" key="DiffContextDialog" timestamp="1587117013163">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="100" width="1150" height="528" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1587117013163" />
+    <state width="1334" height="183" key="GridCell.Tab.0.bottom" timestamp="1587071652412">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1334" height="183" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587071652412" />
+    <state width="1334" height="183" key="GridCell.Tab.0.center" timestamp="1587071652412">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1334" height="183" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587071652412" />
+    <state width="1334" height="183" key="GridCell.Tab.0.left" timestamp="1587071652412">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1334" height="183" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587071652412" />
+    <state width="1334" height="183" key="GridCell.Tab.0.right" timestamp="1587071652412">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1334" height="183" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587071652412" />
+    <state x="370" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1587116480589">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="370" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587116480589" />
+    <state x="331" y="164" key="run.anything.popup" timestamp="1587070560485">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="331" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1587070560485" />
+  </component>
+</project>
